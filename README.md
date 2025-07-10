@@ -42,7 +42,7 @@ Check out the live demo: [Simon Game Live](https://your-live-site-link.com)
 ---
 
 ## 📁 Folder Structure
-'''
+```
 /Simon-Game
 │
 ├── index.html
@@ -55,7 +55,7 @@ Check out the live demo: [Simon Game Live](https://your-live-site-link.com)
 │ └── yellow.mp3
 └── images/
 └── screenshot.png
-'''
+```
 
 ---
 
