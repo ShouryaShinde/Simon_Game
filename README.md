@@ -4,12 +4,12 @@ A web-based memory game inspired by the classic **Simon Game**. The game tests y
 
 ## 🖥️ Demo
 
-Check out the live demo: [Simon Game Live](https://your-live-site-link.com)  
-*(Replace with your actual GitHub Pages or hosting link)*
+Check out the live demo: [Simon Game Live](https://shouryashinde.github.io/Simon_Game/)  
+
 
 ## 📷 Screenshot
 
-![Simon Game Screenshot](screenshot.png)  
+![Simon Game Screenshot](./images/screenshot.png)  
 
 ---
 
